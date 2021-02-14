@@ -812,3 +812,11 @@
 0.0.0.0 ad2iction.com
 0.0.0.0 fuck.you.adblock.com
 0.0.0.0 aotter.net
+0.0.0.0 realsrv.com
+0.0.0.0 config.ioam.de
+0.0.0.0 de.ioam.de
+0.0.0.0 secure-eu.imrworldwide.com
+0.0.0.0 logs1409.xiti.com
+0.0.0.0 tracksrv.zdf.de
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 notify.firetv.bugsnag.appstore.a2z.com
